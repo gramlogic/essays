@@ -5,9 +5,15 @@ Hume noted for all time that Berkeley's arguments did not admit the slightest re
 
 ## Tlon and Trump
 * Two parallel stories of a fantasy world overthrowing reality
-* The fictitious world of Tlon, existing in the literature of the nonexistent Uqbar
-* The figure of Donald Trump as portrayed in tabloids and reality TV
+  * The fictitious world of Tlon, existing in the literature of the nonexistent Uqbar
+  * The figure of Donald Trump as portrayed in tabloids and reality TV
+  * Ousting all pretenders
+* Appearance of reality under attack
+  * Corresponding appearance that there is no need for action
+  * Part of the narrative.
+  * Part of the complacency that got us here.
 * On closer inspection, not fantasy vs reality
+* Borges anticipated this in his story: two fictions
 
 ### First distinction
 * "reality" should be invulnerable to imaginary threats
@@ -42,17 +48,38 @@ Hume noted for all time that Berkeley's arguments did not admit the slightest re
 * Integrate more of the lost ideas
 
 ## Tlon and Trump
+In Jorge Luis Borges's short story Tlon, Uqbar Orbis Tertius, a dubious article in a bootleg encyclopedia provides the first announcement of an imaginary world. As word spreads and interest grows, the stories, beliefs, customs and claims of this world accumulate until they threaten wholly to replace the reality they have invaded.
 
-Jorge Luis Borges's Tlon, Uqbar Orbis Tertius, tells the story of protagonists who discover, through an apocryphal article in a counterfeit encyclopedia, a vast imaginary world that eventually invades and subsumes their own reality. The biography of Donald Trump is a modern remake of this tale. He is a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of this fantasy against reality itself.
+The biography of Donald Trump is a remake of this tale. He is a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of this self-aggrandizing fantasy against reality itself, with considerable success. Just as he worked relentlessly to build and disseminate an outlandish dreamworld, so also did he race to oust all other pretenders to the throne: the news articles and reportage, scientific studies, academic papers, polls, election results, statutes, court rulings and other documents that lay claim to non-fictional status.
 
-At least, that is how it seemed to many adherents of the old regime: the readership of the news articles and reportage, scientific studies, academic papers, polls, election results, statutes, rulings and other documents that consitute the inter-connected texts of non-fiction, the collection of genres that endeavored to represent the real world. From the perspective of those who accept these texts as authorative, it appears that reality itself is under attack, and the mutiny against it is all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to such an assault. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
+To adherents of the old regime, at least, it appeared that reality itself was under attack. The mutiny against it is all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity, beyond the influence of influencers. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
 
-Perhaps this is what happened: the pandemic and eventually the election could not be pretended away. And yet, the effort to do so---the decision to take action based on this alternate facts---surely become part of the real world. And more troubling, one must re-evaluate the confidence that reality, whatever it might ultimately be---will eventually reassert itself. This is especially true in the case of events like a pandemic that are too large for any individual to directly experience. It is also true for events like global warming, which are both too large and too slow. Reality has no obligation to "assert itself"; people make assertions about it. 
+* That is, despite the obvious "real" effects on personal behavior and decisions, many held faith that there would eventually be a correction.
+* And already this narrative has found its own sizable audience: 
+* The problem with this narrative is that it also supports a kind of complacency that Trump exploited
+  * an underestimating of the fantastic or the ridiculous. 
+  * An underestimation of language.
+* Small comfort. They could take us all with them.
+* But worse, it really is unclear on what basis we imagine that there would be such a guarantee.
+* Along with this, we should be suspicious of the idea that the problem is one of education.
+* What we have is not the true believers against the heretics, but one readership against another.
 
-What we have instead is a system in which people, often gathered into institutions, make assertions about reality. Whether these assertions are or are not correct is a difficult question. These assertions form a kind of interconnected text. The text is disseminated to a readership, the members of which may add their own personal experience, or may decide not to. This system, unlike the indifferent universe it purports to represent, is not self-maintaining. It requires defense.
+Borges's parable anticipates this already. A careful reader will note that it is not a story of fantasy against reality, but one fictional world against another. The first, the world in which the story begins, invokes the names and places of the non-fiction world, but it is a fiction nonetheless.  
 
+Similarly, in the case of Trump, we have a contest between fundamentally the same kinds of things. Whatever their differences, they are both still bodies of texts and claims. It is not an easy task to explain why one should be preferred over another, especially against self-interest. We should not underestimate this.
 
+The Borgesian joke: prefer Berkeley's world.
 
+---
+Jorge Luis Borges's Tlon, Uqbar Orbis Tertius, tells the story of protagonists who discover, through an apocryphal article in a counterfeit encyclopedia, a vast imaginary world that eventually invades and subsumes their own reality. The biography of Donald Trump is a modern remake of this tale. He is a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of this self-aggrandizing fantasy against reality itself, and with considerable success.
+
+At least, that is how it seemed to many adherents of the old regime: the readership of the news articles and reportage, scientific studies, academic papers, polls, election results, statutes, rulings and other documents that consitute the inter-connected texts of non-fiction, the collection of genres that endeavored to represent the real world. From the perspective of those who accept these texts as authorative, it appears that reality itself is under attack, and the mutiny against it is all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal fantasies or delusions, regardless of the number of adherents. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
+
+And already this narrative has found an audience: the pandemic and eventually the election could not be pretended away. And yet, the effort to do so---the decision to take action based on these alternate facts---surely become part of the real world. And more troubling, one must re-evaluate the confidence that reality, whatever it might ultimately be---will eventually reassert itself. This is especially true in the case of events like a pandemic that are too large for any individual to directly experience. It is also true for events like global warming, which are both too large and too slow. Reality has no obligation to "assert itself"; people make assertions about it. 
+
+What we have instead is a system in which people, often gathered into institutions, make assertions about reality. Whether these assertions are or are not correct is a difficult question. These assertions form a kind of interconnected text. The text is disseminated to a readership, the members of which may add their own personal experience, or may decide not to. This system, unlike the exterior universe it purports to represent, is not self-maintaining. It requires defense.
+
+Closer inspection reveals this is not the conflict that too
 
 
 * We have to acknowledge that these representations are important.
