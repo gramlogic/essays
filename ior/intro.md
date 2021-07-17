@@ -54,9 +54,12 @@ The biography of Donald Trump is a remake of this tale: the story of a figure wh
 
 To adherents of the old regime it appeared that reality itself was under attack. A mutiny made all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity, beyond the influence of influencers. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
 
-Thus, despite the obvious very real effects on the behavior and decisions of a large portion of the population, many maintained a faith that there would eventually be some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative may take hold. Things like infectious diseases can't be conjured away with inventive press releases, and the decision to collectively ignore them will be rebuffed by our collective elimination. Small comfort. Clearly it would be preferable not to wait for such an intervention.
- 
-* That is, despite the obvious "real" effects on personal behavior and decisions, many held faith that there would eventually be a correction.
+Thus, despite the obvious very real effects on the behavior and decisions of a large portion of the population, many maintained a faith that there would eventually be some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative seems poised to reassert itself. Things like infectious diseases can't be conjured away with inventive press releases, and the decision to collectively ignore them will be rebuffed by our collective elimination. Small comfort. Clearly it would be preferable not to wait for such an intervention.
+
+We should be skeptical of this narrative for another reason. Not just because it seems to encourage complacency (this is always the danger of a propaganda strategy that claims the desired outcome is inevitable), or because it underestimates the threat, but because it fails totally to explain the basis on which we imagine that there is any such guarantee. On the contrary, there is neither evidence not reasoning to demonstrate that humanity on the whole is not capable of sustaining a state of permanent war with reality. It may be the case that the notion of the human is tied inextricably to such a war.  
+
+But another problem is that reality is not on the battlefield.
+
 * And already this narrative has found its own sizable audience: 
 * The problem with this narrative is that it also supports a kind of complacency that Trump exploited
   * an underestimating of the fantastic or the ridiculous. 
