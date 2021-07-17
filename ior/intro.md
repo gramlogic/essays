@@ -52,11 +52,24 @@ In Jorge Luis Borges's short story Tlon, Uqbar Orbis Tertius, a dubious article 
 
 The biography of Donald Trump is a remake of this tale: the story of a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of this self-aggrandizing fantasy against reality itself, with considerable success. Trump worked relentlessly to build and disseminate an outlandish dreamworld of which he was the ruler. He raced to oust all other pretenders: the news articles and reportage, scientific studies, academic papers, polls, election results, statutes, court rulings and other documents that lay a claim to the designation of non-fiction.
 
-To adherents of the old regime it appeared that reality itself was under attack. A mutiny made all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity, beyond the influence of influencers. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
+To adherents of the old regime it appeared that reality itself was under attack. A mutiny made all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity, beyond the influence of influencers. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations or distortions of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
 
-Thus, despite the obvious very real effects on the behavior and decisions of a large portion of the population, many maintained a faith that there would eventually be some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative seems poised to reassert itself. Things like infectious diseases can't be conjured away with inventive press releases, and the decision to collectively ignore them will be rebuffed by our collective elimination. Small comfort. Clearly it would be preferable not to wait for such an intervention.
+Thus, despite the obvious very real effects on the behavior and decisions of a large portion of the population, many maintained a faith that there would eventually be some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative seems poised to reassert itself. A narrative that claims things like infectious diseases can't be conjured away with inventive press releases, and the decision to collectively ignore them will be rebuffed by our collective elimination. Small comfort. Clearly it would be preferable not to wait for such an intervention. And the political advantage of the claim that reality itself will assure an outcome always carries a danger of encouraging inaction.
 
-We should be skeptical of this narrative for another reason. Not just because it seems to encourage complacency (this is always the danger of a propaganda strategy that claims the desired outcome is inevitable), or because it underestimates the threat, but because it fails totally to explain the basis on which we imagine that there is any such guarantee. On the contrary, there is neither evidence not reasoning to demonstrate that humanity on the whole is not capable of sustaining a state of permanent war with reality. It may be the case that the notion of the human is tied inextricably to such a war.  
+Yet, we should be skeptical of this narrative for other reasons. 
+* First, there is no basis for imaging that reality is guaranteed to assert itself, but a great deal of evidence suggesting that human beings are capable of sustaining an uncorrobated fantasy for a very long time. It has even been put forward, with some merit, that delusion is inseparable from the concept of the human.
+* Second, although we may believe that one set of ideas is more correct than another, it is outrageous to assert this without argument. To allow this is to allow it for any set of ideas. Morevover, until the argument is made, we are not dealing with truth against lies, but two networks of claims about the world.
+  * Provisionally, then, what we have is not the true believers against the heretics, but one readership against another.
+
+Borges's parable anticipates this already. A careful reader will note that it is not a story of fantasy against reality, but one fictional world against another. The first, the world in which the story begins, invokes the names and places of the non-fiction world, but it is a fiction nonetheless.
+
+Similarly, in the case of Trump, we have a contest between fundamentally the same kinds of things. Whatever their differences, they are both still bodies of texts and claims. It is not an easy task to explain why one should be preferred over another, especially against self-interest. We should not underestimate this.
+
+* Third, we cannot make the argument.
+
+
+
+Not just because it seems to encourage complacency (this is always the danger of a propaganda strategy that claims the desired outcome is inevitable), or because it underestimates the threat, but because it fails totally to explain the basis on which we imagine that there is any such guarantee. On the contrary, there is neither evidence not reasoning to demonstrate that humanity on the whole is not capable of sustaining a state of permanent war with reality. It may be the case that the notion of the human is tied inextricably to such a war.  
 
 But another problem is that reality is not on the battlefield.
 
@@ -68,10 +81,6 @@ But another problem is that reality is not on the battlefield.
 * But worse, it really is unclear on what basis we imagine that there would be such a guarantee.
 * Along with this, we should be suspicious of the idea that the problem is one of education.
 * What we have is not the true believers against the heretics, but one readership against another.
-
-Borges's parable anticipates this already. A careful reader will note that it is not a story of fantasy against reality, but one fictional world against another. The first, the world in which the story begins, invokes the names and places of the non-fiction world, but it is a fiction nonetheless.  
-
-Similarly, in the case of Trump, we have a contest between fundamentally the same kinds of things. Whatever their differences, they are both still bodies of texts and claims. It is not an easy task to explain why one should be preferred over another, especially against self-interest. We should not underestimate this.
 
 The Borgesian joke: prefer Berkeley's world.
 
