@@ -1,12 +1,29 @@
 # Introduction 
 
 ## Tlon and Trump
+
+### Comparison
 * Two parallel stories of a fantasy world overthrowing reality
 * The fictitious world of Tlon, existing in the literature of the nonexistent Uqbar
 * The figure of Donald Trump as portrayed in tabloids and reality TV
 
+### Counterarguments: resisting the comparison
+* Definition of reality seems to proscribe this formulation.
+  * That which is unaffected by fabrications.
+  * Cannot be ignored.
+  * If it could simply be ignored or altered by inventions, it would not really be "reality"
+  * Introduce correction narrative here?
+* In Borges, it is two fictional worlds.
+  * The initial realistic world vs the final fantastical world.
+  * The question of plausibility depends on which logic dominates.
+  * By realistic logic the events are not plausible. By fantasy logic they are.
+  * When the fantasy world wins, so does its logic.
+
+### Problems with the correction narrative
+* Reality will reassert itself.
+* Applies if 
+
 ### First distinction
-* "reality" should be invulnerable to imaginary threats
 * A closer look reveals this is not in conflict with what happened in either case 
 * In the case of Trump, it is not reality, but our understanding of it that is contested
   * The texts of non-fiction that contain the record of the episteme 

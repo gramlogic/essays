@@ -50,11 +50,46 @@ Hume noted for all time that Berkeley's arguments did not admit the slightest re
 ## Tlon and Trump
 In Jorge Luis Borges's short story Tlon, Uqbar Orbis Tertius, an apocryphal article in a bootleg encyclopedia provides the first announcement of the imaginary world of Tlon. As word spreads and interest grows, the stories, beliefs, customs and claims of this fictional world accumulate until they threaten wholly to replace the reality they have invaded. Unbelievable though it seems, the biography of Donald Trump is a remake of this tale: the story of a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of a self-promoting fantasy against reality itself, with considerable success. Trump worked relentlessly to build and disseminate an outlandish dreamworld in which he was king; once in power, he moved agressively to oust all other pretenders: the news articles and reportage, scientific studies, academic papers, tax returns, polls, election results, statutes, court rulings and other documents that challenged his account of the world and threatened his claim over it. 
 
-To adherents of the old regime it appeared that reality itself was under attack---a mutiny made all the more outrageous on account of the fact that "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity---beyond the influence of influencers. If it means anything, that is, "reality" should describe that which is beyond the reach of fabrications, unaffected by our representations or misrepresentations of it. Neither should we be able to ignore it without consequence; anyone who simply adopts a more convenient set of "alternate facts" should be destined for comeuppance sooner or later.
+To adherents of the old regime it appeared that reality itself was under attack---a mutiny made all the more outrageous on account of the fact that "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity---beyond the influence of influencers. If it means anything, that is, "reality" should describe that which is beyond the reach of fabrications, unaffected by our representations or misrepresentations of it. Neither should we be able to ignore it without consequence; anyone who simply adopts a more convenient set of "alternate facts" should be destined for comeuppance sooner or later. The implicit logic behind the idea of reality, that which cannot be denied or ignored without penalty, suggests we should expect some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative seems poised to reassert itself.
+ 
+In this respect, Trump's story should end differently from Borges's parable, in that the former occurs in the real world, whereas the latter is after all a work of fiction. It is only speaking from the perspective of the protagonists that one could say a fantasy world overthrew reality. The "reality" that is invaded by the fictional world of Tlon is itself already an impostor, albeit an initially realistic one in which names and places correspond with the historical record.[FIX] The story is therefore not about a fictional world that conquers the real world, but rather one fictional world that conquers another.
 
-In this respect, Trump's story should be different from Borges's parable. The latter is after all a work of fiction. The "reality" that is invaded by the fictional world of Tlon is itself already an impostor, albeit an initially realistic one in which names and places correspond with the historical record.[FIX] The story is therefore not about a fictional world that conquers the real world, but rather one fictional world that conquers another. This sets up a very careful inflection point: the question of whether the story is plausible depends on whether it is evaluated from the perspective of the initial, realistic, world or the final, fantastical one. By the logic of realistic narrative, it is implausible that a fantasy world could take over reality. By the logic of a fantasy narrative, it is plausible. As the fantasy world achieves its conquest, the fantasy logic rises to dominance.
+Or rather, it is a story of protagonists who discover the world they live in is not what they thought. It turns out, to their surprise, not to be a realistic universe, in which Tlon could not plausibly prevail. Instead, as the fantasy world achieves preeminence, the events of the plot become increasingly unrealistic--that is, implausible according to the logic and expectations of a realistic world. This leads to an inflection point, at which the story itself ceases to be controlled by realistic logic. By the logic of Tlon, of course, these events are eminently plausible. Thus as Tlon rises to power, so does its logic.
+
+Of course, there is only one story. Tlon exists as part of the "outer" fictional world. What the success of Tlon reveals is simply that our initial expectations about this outer world were incorrect. We begin with the impression that we are witnessing a realistic world, but in such a world Tlon could not have won. Rather, increasingly as the story progresses we get to a state of events  
+
+As the events of the story cause the realistic world to lose influence to the fantastical world, the story of their conflict also shifts its character.
+
+* Phases of the story: realistic to fantastical.
+* 
+* A single story: what kind of story is it?
+
+This view of the events of the story does not pose a challenge to the definition of the word reality. It does raise a question of 
+
+ This sets up a very careful inflection point: the question of whether the story is plausible depends on whether it is evaluated from the perspective of the initial, realistic, world or the final, fantastical one. By the logic of realistic narrative, it is implausible that a fantasy world could take over reality. By the logic of a fantasy narrative, it is plausible. As the fantasy world achieves its conquest, the fantasy logic rises to dominance.
+
+The observation that both worlds are fictional represents a breakdown of the authority of the realistic world, which asserts itself as the more serious one.
+
+Of course, it is only as a provisional and convenient approximation that we divide the story into its realistic and unrealistic phases, both of which are intertwined together to form a single text. The fact that this is easy to forget this was surely not lost on Borges. He makes use of our expectations by setting us up to imagine the world in one way and then gradually introducing information that makes this initial conception impossible to sustain. Rather than a contest between two separate worlds, we have really a kind of power struggle over what ideas and representations are understood as authoritative.
+
+Even this is not quite right, since the world of Tlon is part of the story.
+
+* Binary: And of course, both the fantastic and realistic narratives are part of the same text, and it is only as a temporary and convenient approximation that we discuss a clear division between them.
+* This contest of logics is a better way of thinking about what is happening.
+* New paragraph: So it is also with respect to Donald Trump. Only as hyperbole or convenient approximation can we talk about separate universes.
+* Just as the story of Tlon really exists, so does Donald Trump the man, and so does the National Enquirer and the Apprentice. What we have instead is a lot of texts struggling to establish a logic that supports them. This is not to imply equality, but the grounds for asserting superiority are complex. Much is based on aesthetics, and this is genuinely a contest of etiquette that can be fairly charged as elitist.
+
+
+
+Talk about "reality" vs Trump universe. It is an oversimplification. Elements of Trump's world are obviously as real as the life of any individual.
+
+And of course even fantasies are part of the real world.
+
+What happens in the story gives us a better model: certain aspects of the world have risen to prominence
 
 [Return later to an examination of these two logics.]
+
+"In the real world"
 
 If Trump's fiction is up against the real world, on the other hand, the implicit logic that makes it possible to conceive of such a world also suggests we should expect some kind of "correction" since reality is a thing that cannot be denied or ignored without penalty.
 
