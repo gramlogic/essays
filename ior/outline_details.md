@@ -7,17 +7,30 @@
 * The fictitious world of Tlon, existing in the literature of the nonexistent Uqbar
 * The figure of Donald Trump as portrayed in tabloids and reality TV
 
-### Counterarguments: resisting the comparison
-* Definition of reality seems to proscribe this formulation.
+### Refining the comparison
+* Definition of reality prohibits a conflict between "fantasy" and "reality"
   * That which is unaffected by fabrications.
   * Cannot be ignored.
   * If it could simply be ignored or altered by inventions, it would not really be "reality"
   * Introduce correction narrative here?
-* In Borges, it is two fictional worlds.
-  * The initial realistic world vs the final fantastical world.
-  * The question of plausibility depends on which logic dominates.
-  * By realistic logic the events are not plausible. By fantasy logic they are.
-  * When the fantasy world wins, so does its logic.
+* In Borges, it is not really a story of fantasy vs. reality
+  * First refinement: story of two fictional worlds: 
+    * The initial realistic world vs imaginary world of Tlon
+  * Second refinement: story of a world that turns out not to be what it seemed
+    * If it were a realistic world there would be no way for Tlon to win.
+    * Conversely, the triumph of Tlon validates the logic of Tlon.
+  * Note that we are drawn in to the perspective of the protagonists
+    * it "seems" like fantasy vs reality
+    * Borges takes advantage of this
+* Similarly, it is only by a kind of hyperbole that we could describe Trump as a purely fantastical figure.
+  * Obviously, historical / biographical elements.
+  * So also, this is not "fantasy vs reality"
+  * But again, "feels" like it.
+  * Maybe for some it is not the world they thought they lived in.
+  * Other complexities:
+    * effective force of belief; decisions, actions, etc.
+    * rather, a series of events that threaten a view of the world, and alter or seek to alter the dominant logic
+    * it is not "reality" that is challenged, but its reflection in human knowledge 
 
 ### Problems with the correction narrative
 * Reality will reassert itself.
