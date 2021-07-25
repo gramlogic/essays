@@ -3,27 +3,42 @@
 ## Tlon and Trump
 
 ### Comparison
-* Two parallel stories of a fantasy world overthrowing reality
-* The fictitious world of Tlon, existing in the literature of the nonexistent Uqbar
+Two parallel stories of a fantasy world overthrowing reality
+* Summary of Borges
+  * The impossible story
+  * The fictitious world of Tlon invades reality
 * The figure of Donald Trump as portrayed in tabloids and reality TV
+  * Obviously, historical / biographical elements, but
+  * Trump's approach as fictional world
+  * Gives impression of Reality under attack 
 
-### Refining the comparison
-* Definition of reality prohibits a conflict between "fantasy" and "reality"
-  * That which is unaffected by fabrications.
-  * Cannot be ignored.
-  * If it could simply be ignored or altered by inventions, it would not really be "reality"
-  * Introduce correction narrative here?
+### Contrast: correction narrative 
+Definition of reality prohibits a conflict between "fantasy" and "reality"
+* That which is unaffected by fabrications.
+* Cannot be ignored.
+* If it could simply be ignored or altered by inventions, it would not really be "reality"
+* This gives rise to the "correction narrative" 
+  * The idea that eventually reality will reassert itself.
+  * We are seeing this claim.
+
+The correction narrative thus distinguishes between Borges and Trump
 * In Borges, it is not really a story of fantasy vs. reality
-  * First refinement: story of two fictional worlds: 
-    * The initial realistic world vs imaginary world of Tlon
-  * Second refinement: story of a world that turns out not to be what it seemed
+* First refinement: story of two fictional worlds: 
+  * The initial realistic world vs imaginary world of Tlon
+* Second refinement: story of a world that turns out not to be what it seemed
     * If it were a realistic world there would be no way for Tlon to win.
     * Conversely, the triumph of Tlon validates the logic of Tlon.
-  * Note that we are drawn in to the perspective of the protagonists
-    * it "seems" like fantasy vs reality
-    * Borges takes advantage of this
+* Note that we are drawn in to the perspective of the protagonists
+  * it "seems" like fantasy vs reality
+  * Borges takes advantage of this
+
+Implication: here in reality we're protected from this kind of thing.
+
+### Problems with the correction narrative
+* Reality will reassert itself.
+* Applies if 
+
 * Similarly, it is only by a kind of hyperbole that we could describe Trump as a purely fantastical figure.
-  * Obviously, historical / biographical elements.
   * So also, this is not "fantasy vs reality"
   * But again, "feels" like it.
   * Maybe for some it is not the world they thought they lived in.
@@ -32,9 +47,6 @@
     * rather, a series of events that threaten a view of the world, and alter or seek to alter the dominant logic
     * it is not "reality" that is challenged, but its reflection in human knowledge 
 
-### Problems with the correction narrative
-* Reality will reassert itself.
-* Applies if 
 
 ### First distinction
 * A closer look reveals this is not in conflict with what happened in either case 
