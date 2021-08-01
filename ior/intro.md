@@ -75,72 +75,32 @@ But here again the pandemic provides and instructive example of exactly the kind
 
 What this means, to be clear, is that the relevant conflict is not between Trump and reality, but between two conflicting systems of text, both of which claim to be non-fiction. That is, both of which claim to have a special, privileged relationship to reality that authorizes their designation as non-fiction. This special relationship is what makes a reckoning possible, and moments of reckoning are what ultimately distinguish fact from fiction.
 Thus both side await the reckoning.
+Thus, both sides agree on this framing, and disagree only about which is which.
 
 So again, how will it occur?
 
- 
-* Need to say more about the strategy: our system for designating authority depends largely on this record of what happened. It is absolutely possible to take over the world by changing what people believe to be true about it.
-
-
- 
-Perhaps an objective world remains indifferent, but no one knows about it, and the fictional world succeeds in attaining the authority of non-fiction.
-This position might be tenable if the conflict in question truly was one between fiction and reality itself. 
-
-As in the Borges story, however, to frame the conflict this way is to adopt the perspective of someone who has already accepted one system of texts as the true representative of reality.
-
-To succumb to this temptation is to misconstrue conflict. 
-This is to make a mistake about what is in conflict. 
-
-Here, as in Borges's story, it is worth pointing out that 
-is only by speaking from the perspective of the readership and believers of one of these systems that allows the conflict to be framed as fiction vs. reality. Of course, this framing operates regardless of which system of texts one accords the status of non-fiction. Thus, both sides agree on this framing, and disagree only about which is which.
-
-* Authority is something that is judged from the perspective of a subject.
-* When we talk about texts we are talking about language.
-
-
- conflict between a fictional world and the real world, but a conflict between two systems of text, _both_ of which claim to be nonfiction.
-
-Both promote their own narrative of reckoning.
-
-Here we should note that a conflict between fiction and non-fiction is slightly different from a conflict between fiction and reality itself.
-
-Again, it is only those speaking from the perspective of the readership and believers of the publications that have traditionally been accorded the status of non-fiction---admittedly, a sympathetic view---who describe the conflict 
-
- texts that we can say the conflict is between fiction and reality. , but we still have a conflict between two systems of texts. 
-
- One fictional world can overthrow another, but a fictional world cannot overthrow a non-fictional one---and this is the primary law of the non-fictional world. If it were to be violated we would discover, like Borges's protagonists, that the governing principles of the world do not distinguish between fiction and non-fiction.
-
-* 
-
-
-
-not under the jurisdiction of a human arbitrator, but is measured instead by their relationship to actual events and phenomena. But without some proof or consequences there is no "correction."
-
-Otherwise, if it is possible on a grand 
-
-The texts of non-fiction have a special relation to real events and facts and cannot be adulterated. Note that this relies on reckoning--this is the key that distinguishes between the two stories. The anything possible of fiction and the anchored texts of non-fiction.
- 
-So the conflict really is not between reality and fiction, but between fiction and non-fiction. Two systems of texts. And both claim to be true. Like the Borges story, it is not the real world that is invaded, but one system of texts that takes over another. 
-
-If we skip reckoning, reality maybe doesn't care, but also fiction can do anything. 
-
-So the correction narrative turns out to be the key that distinguishes between these two stories. Therefore, we should look at what it really claims. Key to understanding it is to say what "failure" means.
-
 Does it mean the failure of Trump's political goals? Surely not. After all, he was elected to the presidency.
 
-Does it mean the eventual demonstration of falsity of some portion of his claims? This is a more reasonable interpretation, but in this case, we should attend to the details of how this demonstration is supposed to occur, and who is supposed to arbitrate the conflict. Trump's opponents are convinced already. Is the idea that Trump's supporters themselves would be persuaded by some overwhelming show of evidence? Who could still imagine there was any such guarantee?
-...
+Does it mean the eventual demonstration of falsity of some portion of his claims? 
+  * Does this rely on persuasion? Of whom? Consensus? Majority?
+  * Consider conspiracy theory phenomenon--exactly at the heart of the problem.
+
+Is it, as Ayn Rand suggests in Atlas Shrugged, a process of natural selection?
+
+---
+
+
 A correction of the kind discussed above might mean the discovery of evidence that makes the fiction unsustainable. But only a passing familiarity with the conspiracy cult that surrounded Trump should be enough to demonstrate that nearly any belief can be sustained in the face of nearly any evidence, provided there is sufficient will. Theories that make predictions that don't come to pass are quick to adapt.
 
-
+This is a more reasonable interpretation, but in this case, we should attend to the details of how this demonstration is supposed to occur, and who is supposed to arbitrate the conflict. Trump's opponents are convinced already. Is the idea that Trump's supporters themselves would be persuaded by some overwhelming show of evidence? Who could still imagine there was any such guarantee?
+...
+A correction of the kind discussed above might mean the discovery of evidence that makes the fiction unsustainable. But only a passing familiarity with the conspiracy cult that surrounded Trump should be enough to demonstrate that nearly any belief can be sustained in the face of nearly any evidence, provided there is sufficient will. Theories that make predictions that don't come to pass are quick to adapt.
 
 Another possibility is an empirical, near-Darwinian (Randian) interpretation, in which the adherents of one theory or another are eliminated through a process of natural selection. Wild as this seems, it appears to be playing out in the current vaccination wars. Yet, there is no natural law that guarantees that the negative consequences of a person's decisions would be confined to the person who made the decision. Far from it---as the similar study of global warming very clearly indicates, the behavior of a significant majority could eliminate all of us. If this is what is meant by reality asserting itself then it is small comfort. Clearly it would be preferable not to run this experiment at scale.
 
 even worse: no correlation to survival-- What is the ant's theory of gravity? Or a negative correlation: an incorrect belief that makes survival more likely. 
 
-In this case a "correction" means that there is a special relationship between non-fiction and reality that guarantees a correction.
-
-
+What if identity is more important than survival? Or, conversely that giving up identity is a worse kind of death.
 
 In this scenario, there is no 
 
@@ -149,36 +109,17 @@ In this scenario, there is no
 * try skipping consequences
 * there is some natural affinity between non-fiction and reality
 
-
 If this seems like a problem, then it turns out that the conflict was never between reality and fiction, but between fiction and nonfiction. That is, we have to refine our model of the conflict. It is a conflict between two systems of texts, both of which claim to be the true representative of an underlying reality. To believe in the correction narrative is to believe that "the truth will out." False statements will eventually be shown to be false. Or at least, given enough false statements, a dissonance will emerge that allows us (someone?) to recognize their falsity. 
 
 If this is the case, Trump's plan could achieve its highest goals: the inconvenient facts of the world could be pretended away. What thi
 
- 
-
-This leads to the 
-
 Failure could mean that the truth will out---that by some process false statements are eventually revealed to be false. 
-
-
-
-
-
- even if there is no person who understands this 
-
-a failure to take over reality. The truth will out.
-
-It is good to remember that the fantasy of course has very serious consequences any time it becomes the basis for decisions and behavior. Moreover, "failure" here might entail being proven wrong in a way that has catastrophic consequences for believers and non-believers alike. So this is not tremendously comforting, even if you believe it.
-
-
-
 
 Is this true? Is the correction narrative the distinction? If we accept that the contest is between reality and fiction, then it seems the correction narrative must be the distinction, because if fiction could take over reality, it wasn't reality. This is what the protagonists of the Borges story learned.
 
 And yet, are we really so confident that Donald Trump could not have prevailed? Not simply in maintaining power, but in permanently altering the record of what happened. In changing the historical record of what were the "facts"?
 
 It must be obvious by now that he could have won. That no natural law would have prevented it. To establish this is already to win a certain concession: the status quo that he challenged was not "reality" itself, but merely its self-appointed chroniclers. 
-
 
 Problems:
 * Minor: complacency
@@ -188,39 +129,22 @@ Problems:
   * What was the basis for authority in the first place?
     * Where did the first world come from?
 
-
-
   * both sides can make this claim
   * If Trump had one we would learn we were not in the kind of world we thought we lived in.
 
+The difficulties are surely not lost on Borges. To engage with these questions is to discover we are not in the kind of world we thought we lived in.
 
 What the narrative boils down to is that Trump's defeat was an example of reality conquering a self-serving fantasy. It is comforting after the fact.
 
 The first problem is that both sides in a political contest always claim that their own version of reality is the true one. 
 
-Of course, it is only by a kind of hyperbole
-
 Likewise, if Trump had succeeded we also would have learned we live in a different kind of world.
-
 
 This revised interpretation provides a better model for understanding the phenomenon of Trump. It is only as a convenient simplification and crude hyperbole that we can speak of a clean line between Trump world and the real world.
 
-* correction narrative
+Of course, it is only as a provisional and convenient approximation that we divide the story into its realistic and unrealistic phases, both of which are intertwined together to form a single text. 
 
-Of course, there is only one story. Tlon exists as part of the "outer" fictional world. What the success of Tlon reveals is simply that our initial expectations about this outer world were incorrect. We begin with the impression that we are witnessing a realistic world, but in such a world Tlon could not have won. Rather, increasingly as the story progresses we get to a state of events  
-
-As the events of the story cause the realistic world to lose influence to the fantastical world, the story of their conflict also shifts its character.
-
-* Phases of the story: realistic to fantastical.
-* A single story: what kind of story is it?
-
-This view of the events of the story does not pose a challenge to the definition of the word reality. It does raise a question of 
-
- This sets up a very careful inflection point: the question of whether the story is plausible depends on whether it is evaluated from the perspective of the initial, realistic, world or the final, fantastical one. By the logic of realistic narrative, it is implausible that a fantasy world could take over reality. By the logic of a fantasy narrative, it is plausible. As the fantasy world achieves its conquest, the fantasy logic rises to dominance.
-
-The observation that both worlds are fictional represents a breakdown of the authority of the realistic world, which asserts itself as the more serious one.
-
-Of course, it is only as a provisional and convenient approximation that we divide the story into its realistic and unrealistic phases, both of which are intertwined together to form a single text. The fact that this is easy to forget this was surely not lost on Borges. He makes use of our expectations by setting us up to imagine the world in one way and then gradually introducing information that makes this initial conception impossible to sustain. Rather than a contest between two separate worlds, we have really a kind of power struggle over what ideas and representations are understood as authoritative.
+The fact that this is easy to forget this was surely not lost on Borges. He makes use of our expectations by setting us up to imagine the world in one way and then gradually introducing information that makes this initial conception impossible to sustain. Rather than a contest between two separate worlds, we have really a kind of power struggle over what ideas and representations are understood as authoritative.
 
 Even this is not quite right, since the world of Tlon is part of the story.
 
@@ -228,20 +152,6 @@ Even this is not quite right, since the world of Tlon is part of the story.
 * This contest of logics is a better way of thinking about what is happening.
 * New paragraph: So it is also with respect to Donald Trump. Only as hyperbole or convenient approximation can we talk about separate universes.
 * Just as the story of Tlon really exists, so does Donald Trump the man, and so does the National Enquirer and the Apprentice. What we have instead is a lot of texts struggling to establish a logic that supports them. This is not to imply equality, but the grounds for asserting superiority are complex. Much is based on aesthetics, and this is genuinely a contest of etiquette that can be fairly charged as elitist.
-
-
-
-Talk about "reality" vs Trump universe. It is an oversimplification. Elements of Trump's world are obviously as real as the life of any individual.
-
-And of course even fantasies are part of the real world.
-
-What happens in the story gives us a better model: certain aspects of the world have risen to prominence
-
-[Return later to an examination of these two logics.]
-
-"In the real world"
-
-If Trump's fiction is up against the real world, on the other hand, the implicit logic that makes it possible to conceive of such a world also suggests we should expect some kind of "correction" since reality is a thing that cannot be denied or ignored without penalty.
 
 Thus, many maintained a faith that there would eventually and inevitably be some kind of "correction." And with Trump's universe now seemingly in retreat, this correction narrative seems poised to reassert itself. A narrative that claims things like infectious diseases can't be conjured away with inventive press releases, and the decision to collectively ignore them will be rebuffed by our collective elimination. Small comfort. Clearly it would be preferable not to wait for such an intervention. And the political advantage of the claim that reality itself will assure an outcome always carries a danger of encouraging inaction.
 

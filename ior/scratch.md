@@ -305,8 +305,6 @@ The Derridean critique is not the first critique of the foundations of western m
   * When two such planets are placed into conflict (what Kuhn would have called paradigms), the conflict is fought on the grounds of aesthetics and desires.
   * The dream that there is only one such world and that it has the power to elevate itself above all others is only the result of a past victory in a ruthless contest in which the winner expunged the names of its challengers from the book of life.
 
-
-
 ## Plan for today:
 1st pomodo: 
 * start the plan
@@ -319,3 +317,4 @@ The Derridean critique is not the first critique of the foundations of western m
 3rd pomo:
 * Keep working on intro
 * make plan for 4th pomo
+
