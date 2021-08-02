@@ -12,29 +12,38 @@ Two parallel stories of a fantasy world overthrowing reality
   * Trump's approach as fictional world
   * Gives impression of Reality under attack 
 
-### Contrast: correction narrative 
+### Contrast: reckoning narrative 
 Definition of reality prohibits a conflict between "fantasy" and "reality"
 * That which is unaffected by fabrications.
 * Cannot be ignored.
 * If it could simply be ignored or altered by inventions, it would not really be "reality"
-* This gives rise to the "correction narrative" 
+* This gives rise to the "reckoning narrative" 
   * The idea that eventually reality will reassert itself.
   * We are seeing this claim.
 
-The correction narrative thus distinguishes between Borges and Trump
+The reckoning narrative thus distinguishes between Borges and Trump
 * In Borges, it is not really a story of fantasy vs. reality
 * First refinement: story of two fictional worlds: 
   * The initial realistic world vs imaginary world of Tlon
 * Second refinement: story of a world that turns out not to be what it seemed
     * If it were a realistic world there would be no way for Tlon to win.
     * Conversely, the triumph of Tlon validates the logic of Tlon.
+* If Trump had succeded:
+    * Hist perspective would be "conspiracies are true"
+    * Opponent's perspective would be "no reckoning after all"; apparently you can behave this way
+* The meaning of defeat:
+
+
 * Note that we are drawn in to the perspective of the protagonists
   * it "seems" like fantasy vs reality
   * Borges takes advantage of this
 
-Implication: here in reality we're protected from this kind of thing.
+Implication: 
+* In reality, fiction can't conquer reality. In fiction, it can.
+* We are in reality.
+* So Trump was always doomed.
 
-### Problems with the correction narrative
+### Problems with the reckoning narrative
 * Reality will reassert itself.
 * Applies if 
 
@@ -55,7 +64,7 @@ Implication: here in reality we're protected from this kind of thing.
   * The institutions that produce and maintain this record
   * A conflict of readerships
 
-### Borgesian joke
+### Borgesian joke / arabesque
 * In the case of Tlon, we do well to remember that the original world is not the real world, but merely realistic
   * It corresponds to the texts of non-fiction, but is not bound by any higher laws
   * So as the two worlds diverge we see one fictional world overtake the other.
@@ -133,7 +142,7 @@ Implication: here in reality we're protected from this kind of thing.
 
 * History of metaphysics as substitutions of center for center
 
-### Return to Tlon
+### Return to Tlon: Borgesian Arabesque
 * What kind of society would have a motive to adopt or would be served by supporting a secular idealism?
 * The imaginary world of Tlon is Borges's answer
 * What the narrative hints at in the various paradoxes and philosophical arguments invented is that the difference between these two massively divergent, irreconcilable points of view, is merely one of expedience, desire, erotics, and aesthetics.

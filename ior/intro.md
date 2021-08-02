@@ -31,6 +31,7 @@ Hume noted for all time that Berkeley's arguments did not admit the slightest re
   * the belief system of Tlon is one that prioritizes ideality over empirical evidence
   * Thus, from the perspective of Tlon, they have the stronger claim
   * Since both worlds are fiction, they have a point!
+* The arabesque (may need to come later):
   * But the root of the joke goes deep into the heart of western philosophy, in which Borges was well-versed
   * He choses Berkeley's idealism, but without a deity to gaurantee consistency across different subjective experiences of the world. 
   * The idea is to answer the question "What if we were to imagine a society that, unlike Hume, found Berkeley's arguments compelling"
@@ -52,22 +53,59 @@ In Jorge Luis Borges's short story Tlon, Uqbar Orbis Tertius, an apocryphal arti
 
 One might read the biography of Donald Trump as a retelling of this tale: the story of a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of a self-promoting fantasy against reality itself, with considerable success. Trump worked relentlessly to build and disseminate an outlandish dreamworld in which he ruled supreme; once in power, he moved agressively to oust all other pretenders: the news articles and reportage, scientific studies, academic papers, tax returns, polls, election results, statutes, court rulings and other documents that challenged his account of the world and threatened his claim over it. 
 
-Of course, there is an element of hyperbole in this analogy. Clearly Donald Trump, or, "realDonaldTrump" as he referred to himself, is not a pure fiction. He has a historical and physical existence. But it is fair to say that a hallmark of his political campaign was the brazenness with which he generated and then wielded against his opponents an extraordinary multitude of claims and interconnected narratives that were unmoored from and unabashedly in conflict with previously unchallenged records and reportage of non-fiction. A network of fabricated claims and narratives is a fictional world---an alternate version of reality. Trump's ability to achieve personal and political goals relied largely on his ability to develop a personally advantageous version of reality and install it as the authoritative record. It is as if the story of Tlon were weaponized for political gain.
-
+Of course, there is an element of hyperbole in this analogy. I do not claim that Donald Trump, or, "realDonaldTrump" as he referred to himself, is a figment of pure fiction. Although I have never met him, I concede that he has a historical and physical existence. Yet I think it is fair to say that a hallmark first of his business strategy, then his political campaign was the brazenness with which he generated and then wielded against his opponents an extraordinary multitude of claims and interconnected narratives that were unmoored from and unabashedly in conflict with previously unchallenged records and reportage of non-fiction. A network of fabricated claims and narratives is a fictional world---an alternate version of reality. Trump's ability to achieve personal and political goals relied largely on his ability to develop a personally advantageous version of reality and install it as the authoritative record. It is as if the story of Tlon were weaponized for political gain.
 
 To adherents of the old regime, the Trump administration's strategy appeared to be an attack on reality itself---a mutiny made all the more outrageous on account of the fact that "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal delusions, regardless of their popularity---beyond the influence of influencers. If it means anything, that is, "reality" should describe that which is outside the reach of fabrications, unaffected by our representations or misrepresentations of it. Neither should we be able to ignore it without consequence; anyone who simply adopts a more convenient set of "alternate facts" should be destined for comeuppance sooner or later. The implicit logic behind the idea of reality, the idea of things that cannot be denied or ignored without penalty, suggests we should expect some kind of reckoning. And with Trump's universe now seemingly in retreat, this narrative of a reckoning seems poised to assert itself.
  
 This narrative relies in part on the belief that Trump's story is fundamentally different from Borges's parable, in that the former occurs in the real world, whereas the latter is after all a work of fiction. It is only speaking from the perspective of Borges's protagonists that one could say his story is about a fantasy world that overthrows reality. The "reality" that is invaded by the fictional world of Tlon is itself already an impostor, albeit an initially realistic one in which we see familiar names and places that correspond with the historical record, and the anecdotal style mimics a non-fictional account. In a more careful analysis we must admit that the story is not an account of a fictional world that conquers the real world, but rather of one fictional world that conquers another. 
 
-Or rather, it is a story of protagonists who discover the world they live in is not what it seemed. It turns out, to their initial surprise but eventual resignation, not to be a "realistic" universe, in which the Tlonian invasion could not plausibly prevail. Instead, as Tlon achieves preeminence, the events of the plot become increasingly unrealistic--that is, implausible according to the logic and expectations of a realistic world. According to the beliefs of the people of Tlon, of course, these events are eminently plausible, even predictable. Thus the narrative arrives at an inflection point, at which it passes over into a series of events best explained on Tlonian terms. As Tlon rises to power, its success against the realistic world validates and installs the fantastical logic it brings with it.
+Or rather, it is a story of protagonists who discover the world they live in is not what it seemed. It turns out, to their initial surprise but eventual resignation, not to be a "realistic" universe, in which the Tlonian invasion could not plausibly prevail. Instead, as Tlon achieves preeminence, the events of the plot become increasingly unrealistic--that is, implausible according to the logic and expectations derived from the laws of the real world. According to the beliefs of the people of Tlon, of course, the same events are eminently plausible, predictable, even "realistic" if this word can be used to indicate affinity to an alternate reality of reference. Thus the narrative arrives at an inflection point, at which it passes over into a series of events best explained on Tlonian terms. As Tlon rises to power, its success against the initial world validates and installs the novel logic it brings with it.
 
-Within the bounds of fiction, this reversal is allowed because there is no requirement for a reckoning against independent phenomena that comprise the objects and events the text describes. The texts of non-fiction, in contrast, are beholden to an external measure by which true statements are distinguished from fabrications. Thus the reckoning narrative implies that Trump's loss of the election is part of evidence that his strategy was fundamentally unsustainable. His opponent was not simply a group of political rivals, but a universe of factual information that could not simply be pretended away. Perhaps nothing embodied this reality like the pandemic. Thus, the narrative suggests that the self-serving fantasy of Donald Trump was always doomed, at least eventually, to fail. This moment of reckoning is what distinguishes between Trump's story and the story of Tlon. It establishes the boundary between fiction and non-fiction: one fictional world can conquer another, but a fictional world cannot permanently invade or replace a system of non-fictional texts without consequence.
+If Trump had succeeded in his bid to overturn the election, or if he were to suceed in establishing his preferred version of events---rewriting the historical narrative to include the birther, deep state, and QAnon conspiracy, as well as the more vague conspiracies of elite instutitions, scientists and medical professionals that underly his pandemic and climate change denials---there can hardly be a question that he would claim his success validates his approach. From the perspective of Trump's supporters, it would prove that there were massive conspiracies to intentionally produce and disseminate false information. From the perspective of slightly more cynical supporters, perhaps Trump himself, it would validate the world view that there is ultimately no unbending backbone of reality behind our accounts---that every narrative is crafted according to an advertising logic, driven purely by the ulterior motives, and that Trump's differ from others only in who those motives serve. In other words, there is no firm distinction between fiction and non-fiction, no moment of reckoning worth concerning oneself about. Even his opponents might draw a similar conclusion, having discovered, like Borges's protagonists, that their world was not as sturdy as it seemed. That is was vulnerable to an unexpected kind of attack. In this scenario, Trump's story would not be fundamentally different from Borges's tale after all.
+
+From the perspective of his opponents, it would prove is that one does not need to "be realistic" to succeed, and that there is no guarantee of a reckoning. We would find, like Borges's protagonists, that the world we live was not as sturdy as it seemed. That is was vulnerable to an unexpected kind of attack. Trump's story would not be fundamentally different after all.
+
+It would prove that it is all just propaganda designed to serve individual goals.
+
+In the face of Trump's defeat, then, one could see it as evidence of the opposite conclusion: In a fantasy, a fantasy world can replace reality. In reality, it cannot.  
+
+The of Trump's ultimate failure as evidence of a reckoning, is a belief that the firm line between fantasy and reality prevents such an outcome.  
+It would be comforting to draw such a conclusion, but it is troubling that exactly the same explanation would be applied to explain Trump's win.
+
+This distinction follows directly from the definitions of the words.
+
+
+
+
+ Perhaps foremost that he is a genius rather than a fool.
+can Trump do this?
+
+yes and no
+
+more than you'd think
+
+In the reckoning narrative, Trump's failure is predictable.
+
+
+To summarize, then:  If one could conjure a pandemic away simply by pretending it didn't exist, 
+
+Examples: you cannot conjure a pandemic out of existence
+
+More precisely, one cannot make a thing true by sheer force of will.
+
+* Since we are not the protagonists in a story
+* Trump's strategy was always doomed.
+If this were not the case we would learn that we are not 
+
+ A fictional text is not constrained by the requirement to represent and be measured against the objects and events it describes.  
+
+The texts of non-fiction, in contrast, are beholden to an external measure by which true statements are distinguished from fabrications. Thus the reckoning narrative implies that Trump's loss of the election is part of evidence that his strategy was fundamentally unsustainable. His opponent was not simply a group of political rivals, but a universe of factual information that could not simply be pretended away. Perhaps nothing embodied this reality like the pandemic. Thus, the narrative suggests that the self-serving fantasy of Donald Trump was always doomed, at least eventually, to fail. This moment of reckoning is what distinguishes between Trump's story and the story of Tlon. It establishes the boundary between fiction and non-fiction: one fictional world can conquer another, but a fictional world cannot permanently invade or replace a system of non-fictional texts without consequence.
 
 How, then, does this reckoning work? What is its mechanism and what are its consequences? It may be tempting to postpone this question---that is, to put off the question of proof or reckoning altogether and to say simply that whatever the consequences, Trump's fabrications will yet remain mere fictions, lies, propaganda, and their truth or falsity is independent of any demonstration. The problem with this position is that it implies, seemingly by accident, that reality is a thing that can be ignored on a very large scale after all. Without a reckoning, the objective world and our preferred representation of it can remain permanently in conflict. If this is the case there is no way to elevate non-fiction.
 
 This matters because what we are calling non-fiction could also be understood as "knowledge", "facts" or "truth." While this humble system of texts may not affect the movement of heavenly bodies, it very much does affect human decisions and behavior on individual, national and global scale. I do not believe we can change the temperature of the sun by altering our records, but if one's goal is merely to take over the world, it is sufficient to control what people believe to be true. Thus it is unquestionably possible for a sweeping campaign of propaganda to achieve this purpose. It is even possible in the case of pandemic, that avatar of reality that appears to defeat all rhetoric.
 
-Surely a disease with hundreds of millions of reported cases worldwide and millions of deaths is a direct representative of a grim reality, totally indifferent to political positions or opinions. This is the case where the Trump administration's strategy of treating everything like a public relations problem was sure to fail. There is an argument to be made that this is what happened. Yet, even if this strategy fell short, it is important to acknowledge how effective it was. After all, if the conflict here really was simply between a fiction and reality, we should expect it to fail utterly. Instead, we have an ongoing situation in which pandemic protocols have been politicized, and an enormous portion of the population is refusing vaccination on the basis of political identity. How is this possible?
+Surely a disease with hundreds of millions of reported cases worldwide and millions of deaths is as direct representative of a grim reality as we are ever likely to contend with, totally indifferent to political positions or opinions. This is the case where the Trump administration's strategy of treating everything like a public relations problem was sure to fail. There is an argument to be made that this is what happened. Yet, even if this strategy fell short, it is important to acknowledge how effective it was. After all, if the conflict here really was simply between a fiction and reality, we should expect it to fail utterly. Instead, we have an ongoing situation in which pandemic protocols have been politicized, and an enormous portion of the population is refusing vaccination on the basis of political identity. How is this possible?
  
 The problem is that, as in the Borges story, we have again fallen into the trap of speaking from the perspective of a person who has already accepted a particular system of texts, a particular narrative as the true representatives of reality. Like Borges's protagonists, it seems to us as if the real world is being invaded. It is very easy to slip into this way of thinking, in which we fail to distinguish between the idea of the world and the world itself. When we do this we imagine that everything we know is somehow immediately obvious---as though presented through a direct experience---and we forget the mechanisms by which we acquired this view. We easily forget how little individuals can directly perceive, and how much we rely on external sources of information. We forget, perhaps most importantly, how much we rely on trust and identity when chosing between conflicting sources.  
   
@@ -76,6 +114,8 @@ But here again the pandemic provides and instructive example of exactly the kind
 What this means, to be clear, is that the relevant conflict is not between Trump and reality, but between two conflicting systems of text, both of which claim to be non-fiction. That is, both of which claim to have a special, privileged relationship to reality that authorizes their designation as non-fiction. This special relationship is what makes a reckoning possible, and moments of reckoning are what ultimately distinguish fact from fiction.
 Thus both side await the reckoning.
 Thus, both sides agree on this framing, and disagree only about which is which.
+
+---
 
 So again, how will it occur?
 
@@ -87,8 +127,40 @@ Does it mean the eventual demonstration of falsity of some portion of his claims
 
 Is it, as Ayn Rand suggests in Atlas Shrugged, a process of natural selection?
 
+What if we are not guaranteed a reckoning?
+
+What is the process for admiting a claim into the canon of non-fiction?
+
+Scientific method?
+
+Can we distinguish based on reason, examining the internal consistency?
+
+In this case Borges does much better than Trump. For while Trump makes very little effort to maintain consistency, Borges delivers an extremely consistent world view, one which is based on the work of a very earnest philosophy.
+
+What this means:
+
+Suspicion of the reckoning narrative is warranted.
+We are not on very solid ground.
+It is not just a matter of "verifying facts" on the internet or getting a better education.
+We are not guaranteed a reckoning. Consequently, the texts of non-fiction are vulnerable to the Trumpist assault. 
+What to make of the surprisingly important role of aesthetics and desires?
+
+How to explain Borges's joke?
+* We'll need more background.
+* Makes sense to explain how this connects to metaphysics.
+
 ---
 
+Later:
+* As reality changes, so does what is "realistic."
+* Something very like Kuhn's paradigms.
+* Similarly, like Derrida's explanation of reciprocal destruction of philosophical systems.
+
+## The Philosophy of Tlon
+* Berkeley's subjective idealism
+* Minus God
+* In Tlon, the cause is produced by the effect. The Hron. They have even industrialized this phenomenon.
+* The explanation is called into being by empirical observation. Thus the world grows leonem ex ungue. The cabal that is responsible for the world is discovered inevitably to explain it, but what is the motivation of these conspirators? They exist to explain the encyclopedia article, which in turn exists to explain the memory of a quotation.
 
 A correction of the kind discussed above might mean the discovery of evidence that makes the fiction unsustainable. But only a passing familiarity with the conspiracy cult that surrounded Trump should be enough to demonstrate that nearly any belief can be sustained in the face of nearly any evidence, provided there is sufficient will. Theories that make predictions that don't come to pass are quick to adapt.
 
@@ -191,16 +263,7 @@ But another problem is that reality is not on the battlefield.
 The Borgesian joke: prefer Berkeley's world.
 
 ---
-Jorge Luis Borges's Tlon, Uqbar Orbis Tertius, tells the story of protagonists who discover, through an apocryphal article in a counterfeit encyclopedia, a vast imaginary world that eventually invades and subsumes their own reality. The biography of Donald Trump is a modern remake of this tale. He is a figure who rose out of supermarket tabloids to achieve prominence in the universe of reality television, then turned the forces of this self-aggrandizing fantasy against reality itself, and with considerable success.
-
-At least, that is how it seemed to many adherents of the old regime: the readership of the news articles and reportage, scientific studies, academic papers, polls, election results, statutes, rulings and other documents that consitute the inter-connected texts of non-fiction, the collection of genres that endeavored to represent the real world. From the perspective of those who accept these texts as authorative, it appears that reality itself is under attack, and the mutiny against it is all the more outrageous on account of the fact that the word "reality" denotes exactly that which should be both invulnerable and indifferent to the content of personal fantasies or delusions, regardless of the number of adherents. That is, if it means anything, "reality" should describe that which is beyond the reach of language, unaffected by our representations of it. It seems that anyone who simply adopts a more convenient set of "alternate facts" is destined for comeuppance sooner or later.
-
-And already this narrative has found an audience: the pandemic and eventually the election could not be pretended away. And yet, the effort to do so---the decision to take action based on these alternate facts---surely become part of the real world. And more troubling, one must re-evaluate the confidence that reality, whatever it might ultimately be---will eventually reassert itself. This is especially true in the case of events like a pandemic that are too large for any individual to directly experience. It is also true for events like global warming, which are both too large and too slow. Reality has no obligation to "assert itself"; people make assertions about it. 
-
-What we have instead is a system in which people, often gathered into institutions, make assertions about reality. Whether these assertions are or are not correct is a difficult question. These assertions form a kind of interconnected text. The text is disseminated to a readership, the members of which may add their own personal experience, or may decide not to. This system, unlike the exterior universe it purports to represent, is not self-maintaining. It requires defense.
-
 Closer inspection reveals this is not the conflict that too
-
 
 * We have to acknowledge that these representations are important.
 * What is being defended is not reality itself, but its textual surrogate.
