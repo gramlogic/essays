@@ -56,7 +56,6 @@ Implication:
     * rather, a series of events that threaten a view of the world, and alter or seek to alter the dominant logic
     * it is not "reality" that is challenged, but its reflection in human knowledge 
 
-
 ### First distinction
 * A closer look reveals this is not in conflict with what happened in either case 
 * In the case of Trump, it is not reality, but our understanding of it that is contested

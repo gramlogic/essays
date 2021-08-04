@@ -63,18 +63,28 @@ Or rather, it is a story of protagonists who discover the world they live in is 
 
 If Trump had succeeded in his bid to overturn the election, or if he were to suceed in establishing his preferred version of events---rewriting the historical narrative to include the birther, deep state, and QAnon conspiracy, as well as the more vague conspiracies of elite instutitions, scientists and medical professionals that underly his pandemic and climate change denials---there can hardly be a question that he would claim his success validates his approach. From the perspective of Trump's supporters, it would prove that there were massive conspiracies to intentionally produce and disseminate false information. From the perspective of slightly more cynical supporters, perhaps Trump himself, it would validate the world view that there is ultimately no unbending backbone of reality behind our accounts---that every narrative is crafted according to an advertising logic, driven purely by the ulterior motives, and that Trump's differ from others only in who those motives serve. In other words, there is no firm distinction between fiction and non-fiction, no moment of reckoning worth concerning oneself about. Even his opponents might draw a similar conclusion, having discovered, like Borges's protagonists, that their world was not as sturdy as it seemed. That is was vulnerable to an unexpected kind of attack. In this scenario, Trump's story would not be fundamentally different from Borges's tale after all.
 
-From the perspective of his opponents, it would prove is that one does not need to "be realistic" to succeed, and that there is no guarantee of a reckoning. We would find, like Borges's protagonists, that the world we live was not as sturdy as it seemed. That is was vulnerable to an unexpected kind of attack. Trump's story would not be fundamentally different after all.
+So far, this has not happened, and this allows us to persist in the belief that it cannot happen. This is the central tenet of the reckoning narrative: in a fantasy, a fantasy world can replace reality; in reality, it cannot. The firm line between fantasy and reality is supposed to prevent such an outcome. This seems comforting, but what is troubling is that Trump could have invoked exactly the same explanation to explain his win. In fact, any outcome can be described after the fact as the inevitable consequences of the real world. The reason is that we only know this world by its consequences. The lion from its claw.  
+it can always be applied after the fact to claim 
+
+Any outcome can be described as the inevitable consequences of any theory that predicted that outcome. 
+
+The problems:
+* failure to contradict a hypothesis does not prove it
+* If Trump had won he would have described his victory in the same way.
+* We only construct an idea of the world retroactively by extrapolating from what we observe. (lion from claw)
+* What is on the line is not just events, but the status of fiction.
+
+
+It would be comforting to draw such a conclusion, but it is troubling that exactly the same explanation would be applied to explain Trump's win.
+ To view his defeat as evidence of a reckoning 
 
 It would prove that it is all just propaganda designed to serve individual goals.
 
-In the face of Trump's defeat, then, one could see it as evidence of the opposite conclusion: In a fantasy, a fantasy world can replace reality. In reality, it cannot.  
+In the face of Trump's defeat, then, one could see it as evidence of the opposite conclusion: 
 
-The of Trump's ultimate failure as evidence of a reckoning, is a belief that the firm line between fantasy and reality prevents such an outcome.  
-It would be comforting to draw such a conclusion, but it is troubling that exactly the same explanation would be applied to explain Trump's win.
+
 
 This distinction follows directly from the definitions of the words.
-
-
 
 
  Perhaps foremost that he is a genius rather than a fool.
