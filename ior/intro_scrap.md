@@ -55,4 +55,66 @@ Within the bounds of fiction, this reversal is allowed because there is no requi
 ## Come Back
 In fiction, a fictional world can conquer reality. In reality, it cannot.
 
+## cache
+The idea of a reckoning is required to tip the scale in favor of one of these systems or another.
 
+is only broken by the promise of a reckoning, which will tip the scale in favor of one text or the other. 
+
+without reckoning, we have symmetry
+still not fantasy vs reality but two conflicting systems of texts that claim the status of non-fiction
+
+The firm line between fantasy and reality is supposed to prevent such an outcome. This seems comforting, but what is troubling is that Trump could have invoked exactly the same explanation to explain his win. In fact, any outcome can be described after the fact as the inevitable consequences of the real world. The reason is that we only know this world by its consequences. The lion from its claw.  
+it can always be applied after the fact to claim 
+
+So far this has not happened, but that does not guarantee it could not. And we should be suspicious of any assurances to the contrary.
+
+For one thing it's reversible.
+
+While it seems that only the promise of a reckoning preserves the separation between fact and fiction, at the same time there is no guarantee.
+---later
+
+You have to have a desire.
+
+and this allows us to persist in the belief that it cannot happen.
+Any outcome can be described as the inevitable consequences of any theory that predicted that outcome. 
+
+The problems:
+* failure to contradict a hypothesis does not prove it
+* If Trump had won he would have described his victory in the same way.
+* We only construct an idea of the world retroactively by extrapolating from what we observe. (lion from claw)
+* What is on the line is not just events, but the status of fiction.
+
+
+It would be comforting to draw such a conclusion, but it is troubling that exactly the same explanation would be applied to explain Trump's win.
+ To view his defeat as evidence of a reckoning 
+
+It would prove that it is all just propaganda designed to serve individual goals.
+
+In the face of Trump's defeat, then, one could see it as evidence of the opposite conclusion: 
+
+
+
+This distinction follows directly from the definitions of the words.
+
+
+ Perhaps foremost that he is a genius rather than a fool.
+can Trump do this?
+
+yes and no
+
+more than you'd think
+
+In the reckoning narrative, Trump's failure is predictable.
+
+
+To summarize, then:  If one could conjure a pandemic away simply by pretending it didn't exist, 
+
+Examples: you cannot conjure a pandemic out of existence
+
+More precisely, one cannot make a thing true by sheer force of will.
+
+* Since we are not the protagonists in a story
+* Trump's strategy was always doomed.
+If this were not the case we would learn that we are not 
+
+Whereas a fictional text is not constrained by the requirement to represent and be measured against the objects and events it describes, the texts of non-fiction are beholden to an external measure by which true statements are distinguished from fabrications. Thus the reckoning narrative implies that Trump's loss of the election is part of evidence that his strategy was fundamentally unsustainable. His opponent was not simply a group of political rivals, but a universe of factual information that could not simply be pretended away. Perhaps nothing embodied this reality like the pandemic. Thus, the narrative suggests that the self-serving fantasy of Donald Trump was always doomed, at least eventually, to fail. This moment of reckoning is what distinguishes between Trump's story and the story of Tlon. It establishes the boundary between fiction and non-fiction: one fictional world can conquer another, but a fictional world cannot permanently invade or replace a system of non-fictional texts without consequence.

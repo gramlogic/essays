@@ -63,53 +63,9 @@ Or rather, it is a story of protagonists who discover the world they live in is 
 
 If Trump had succeeded in his bid to overturn the election, or if he were to suceed in establishing his preferred version of events---rewriting the historical narrative to include the birther, deep state, and QAnon conspiracy, as well as the more vague conspiracies of elite instutitions, scientists and medical professionals that underly his pandemic and climate change denials---there can hardly be a question that he would claim his success validates his approach. From the perspective of Trump's supporters, it would prove that there were massive conspiracies to intentionally produce and disseminate false information. From the perspective of slightly more cynical supporters, perhaps Trump himself, it would validate the world view that there is ultimately no unbending backbone of reality behind our accounts---that every narrative is crafted according to an advertising logic, driven purely by the ulterior motives, and that Trump's differ from others only in who those motives serve. In other words, there is no firm distinction between fiction and non-fiction, no moment of reckoning worth concerning oneself about. Even his opponents might draw a similar conclusion, having discovered, like Borges's protagonists, that their world was not as sturdy as it seemed. That is was vulnerable to an unexpected kind of attack. In this scenario, Trump's story would not be fundamentally different from Borges's tale after all.
 
-So far, this has not happened, and this allows us to persist in the belief that it cannot happen. This is the central tenet of the reckoning narrative: in a fantasy, a fantasy world can replace reality; in reality, it cannot. The firm line between fantasy and reality is supposed to prevent such an outcome. This seems comforting, but what is troubling is that Trump could have invoked exactly the same explanation to explain his win. In fact, any outcome can be described after the fact as the inevitable consequences of the real world. The reason is that we only know this world by its consequences. The lion from its claw.  
-it can always be applied after the fact to claim 
+Because Trump did not succeed, we can still sustain the belief that he was held back by the firm line between fantasy and reality, which is supposed to prevent such an outcome. This is the central tenet of the reckoning narrative: in a fantasy, a fantasy world can replace reality; in reality, it cannot. Thus the reckoning narrative implies that Trump's loss of the election is part of evidence that his strategy was fundamentally unsustainable. His opponent was not simply a group of political rivals, but a universe of factual information that could not simply be pretended away. Comforting though this claim might seem, the mere failure to disprove it does not demonstrate that it is true, and we should be suspicious of any assurances to the contrary. For one thing, it is troubling to recognize that this explanation could be invoked from either side of the inflection point: had Trump won, he could have claimed with equal justification that reality had triumphed over fantasy, even though the sets of beliefs referred to by the words reality and fantasy would be reversed. This symmetry is concerning. Not least, it suggests that the confrontation in question does not occur directly between what is real and what is not (which would presumably be a very uneven match), but rather between two conflicting systems of texts that both claim the status of non-fiction. 
 
-Any outcome can be described as the inevitable consequences of any theory that predicted that outcome. 
-
-The problems:
-* failure to contradict a hypothesis does not prove it
-* If Trump had won he would have described his victory in the same way.
-* We only construct an idea of the world retroactively by extrapolating from what we observe. (lion from claw)
-* What is on the line is not just events, but the status of fiction.
-
-
-It would be comforting to draw such a conclusion, but it is troubling that exactly the same explanation would be applied to explain Trump's win.
- To view his defeat as evidence of a reckoning 
-
-It would prove that it is all just propaganda designed to serve individual goals.
-
-In the face of Trump's defeat, then, one could see it as evidence of the opposite conclusion: 
-
-
-
-This distinction follows directly from the definitions of the words.
-
-
- Perhaps foremost that he is a genius rather than a fool.
-can Trump do this?
-
-yes and no
-
-more than you'd think
-
-In the reckoning narrative, Trump's failure is predictable.
-
-
-To summarize, then:  If one could conjure a pandemic away simply by pretending it didn't exist, 
-
-Examples: you cannot conjure a pandemic out of existence
-
-More precisely, one cannot make a thing true by sheer force of will.
-
-* Since we are not the protagonists in a story
-* Trump's strategy was always doomed.
-If this were not the case we would learn that we are not 
-
- A fictional text is not constrained by the requirement to represent and be measured against the objects and events it describes.  
-
-The texts of non-fiction, in contrast, are beholden to an external measure by which true statements are distinguished from fabrications. Thus the reckoning narrative implies that Trump's loss of the election is part of evidence that his strategy was fundamentally unsustainable. His opponent was not simply a group of political rivals, but a universe of factual information that could not simply be pretended away. Perhaps nothing embodied this reality like the pandemic. Thus, the narrative suggests that the self-serving fantasy of Donald Trump was always doomed, at least eventually, to fail. This moment of reckoning is what distinguishes between Trump's story and the story of Tlon. It establishes the boundary between fiction and non-fiction: one fictional world can conquer another, but a fictional world cannot permanently invade or replace a system of non-fictional texts without consequence.
+Whereas a fictional text is not constrained by the requirement to represent and be measured against the objects and events it describes, the texts of non-fiction are beholden to an external measure by which true statements are distinguished from fabrications. The reckoning is what reveals which is which. 
 
 How, then, does this reckoning work? What is its mechanism and what are its consequences? It may be tempting to postpone this question---that is, to put off the question of proof or reckoning altogether and to say simply that whatever the consequences, Trump's fabrications will yet remain mere fictions, lies, propaganda, and their truth or falsity is independent of any demonstration. The problem with this position is that it implies, seemingly by accident, that reality is a thing that can be ignored on a very large scale after all. Without a reckoning, the objective world and our preferred representation of it can remain permanently in conflict. If this is the case there is no way to elevate non-fiction.
 
@@ -438,4 +394,25 @@ two main factors: first, a series of quick insights overwhelmed the academic wor
 
 In other words, there is a relentless need in academia to push forward to new ideas and coin new 
 
+---
+## Ethics behind this metaphysics:
+Say one adopts a community-focused ethics: what does one get in return?
+The question reveals I am not really talking about a community-focused ethics. I'm talking only about the satisfaction of personal desires. This is all way back to Plato.
+Say one is motivated by selfish goals. This seems necessary because the self is the location of experience.
+These include perhaps the goal of having a good feeling produced by helping another person. Or the good feeling of accomplishing something that is good for the community.
+The good feeling of acting in a way that is calculated to produce the most happiness for the most people.
+There are many rational courses of action that do not prioritize what is traditionally considered selfish motives.
+
+Return to the prisoner's dilemma.
+If A and B betray each other, 2 years in prison.
+If A betrays B but B remains silent, A is free and B gets 3 years.
+If B betrays A but B remains silent, B is free and A gets 3 years.
+If both remain silent, both get one year.
+
+Now imagine A and B are in love and their goal is to be reunited: this resolves the dilemma. It is obvious what a rational person would do.
+
+More generally, imagine the prisoner's goal is to minimize the total amount of prison time, making no distinction between their own time and the other's. Again, there is now no rational reason for betrayal. 
+Any betrayal will result in a total prison time of 3 or 4 years.
+
+Such value systems are so commonplace in the real world that it is bizarre that the dilemma assumes they are not operating. It would be better termed the criminal's dilemma, given the assumption about how the prisoners make decisions. Crucially, there is an implied equivalence between this criminal, self-only ethics and "rationality."
 
