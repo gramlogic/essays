@@ -22,16 +22,26 @@ Definition of reality prohibits a conflict between "fantasy" and "reality"
   * We are seeing this claim.
 
 The reckoning narrative thus distinguishes between Borges and Trump
-* In Borges, it is not really a story of fantasy vs. reality
-* First refinement: story of two fictional worlds: 
-  * The initial realistic world vs imaginary world of Tlon
-* Second refinement: story of a world that turns out not to be what it seemed
-    * If it were a realistic world there would be no way for Tlon to win.
-    * Conversely, the triumph of Tlon validates the logic of Tlon.
-* If Trump had succeded:
+* Trump is in reality, Borges's story is in fiction
+  * What this means in Borges:
+    * Not really a story of fantasy vs. reality
+    * First refinement: story of two fictional worlds: 
+      * The initial realistic world vs imaginary world of Tlon
+    * Second refinement: story of a world that turns out not to be what it seemed
+      * If it were a realistic world there would be no way for Tlon to win.
+      * Conversely, the triumph of Tlon validates the logic of Tlon.
+* How things are different in reality with Trump:
+  * If he had succeded:
     * Hist perspective would be "conspiracies are true"
     * Opponent's perspective would be "no reckoning after all"; apparently you can behave this way
-* The meaning of defeat:
+    * So, the difference would not be clear
+  * Because he did not succeed:
+    * Might see this as reality striking back.
+    * But... a troubling symmetry: this would also be Trump's interpretation of his own win.
+  * To proceed further we need a better model
+    * A distinction between reality and its representation.
+    * Not reality vs. fantasy
+    * Two systems of texts that both claim to be non-fiction 
 
 
 * Note that we are drawn in to the perspective of the protagonists
