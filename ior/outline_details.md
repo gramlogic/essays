@@ -42,6 +42,7 @@ The reckoning narrative thus distinguishes between Borges and Trump
     * A distinction between reality and its representation.
     * Not reality vs. fantasy
     * Two systems of texts that both claim to be non-fiction 
+    * Add here a note about Borges's protagonists?
 
 
 * Note that we are drawn in to the perspective of the protagonists
